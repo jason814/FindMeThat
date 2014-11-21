@@ -44,7 +44,7 @@ class FindMeThat
       :port                 => 587,
       :domain               => 'gmail.com',
       :user_name            => 'jason814@gmail.com',
-      :password             => 'BIGfish13',
+      :password             => 'oopsTryItAgain!',
       :authentication       => 'plain',
       :enable_starttls_auto => true
     }
